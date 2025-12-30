@@ -1,6 +1,6 @@
 Name:		python-flaky
 Version:	3.8.1
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/f/flaky/flaky-%{version}.tar.gz
 Summary:	Plugin for pytest that automatically reruns flaky tests.
 URL:		https://pypi.org/project/flaky/
